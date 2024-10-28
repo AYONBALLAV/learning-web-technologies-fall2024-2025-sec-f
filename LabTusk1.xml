@@ -1,0 +1,92 @@
+<products>
+    <product id = "11">
+        <name>Samsung</name>
+        <unitprice>35000</unitprice>
+        <stock>50</stock>
+        <status>1</status>
+    </product>
+
+    <product id="20">
+        <name>HTC</name>
+        <unitprice>65300</unitprice>
+        <stock>35</stock>
+        <status>0</status>
+    </product>
+    <product id="23">
+        <name>NOKIA</name>
+        <unitprice>25100</unitprice>
+        <stock>100</stock>
+        <status>1</status>
+    </product>
+</products>
+
+<students >
+     <student sl = "23">
+        <name>John Carter</name>
+        <admisson_date>
+        <day>25</day>
+        <month>12</month>
+        <year>2015</year>
+        </admisson_date>
+    </student>
+
+     <student sl = "29">
+        <name>Bob Marshal</name>
+        <admisson_date>
+        <day>13</day>
+        <month>01</month>
+        <year>1999</year>
+        </admisson_date>
+     </student>
+
+     <student sl = "35">
+        <name>Clark Kent</name>
+        <admisson_date>
+        <day>17</day>
+        <month>06</month>
+        <year>2005</year>
+        </admisson_date>
+     </student>
+
+</students>
+
+<personal_informations>
+   <personal_information id="1">
+        <name>John Doe</name>
+        <address>
+        <house> 34 </house>
+        <rode>3</rode>
+        <area>Banani</area>
+        <city>Dhaka</city>adress>
+        </address>
+        <department>Sales</department>
+        <salary>$20000 </salary>
+   </personal_information>
+
+
+    <personal_information id="2">
+        <name>Mark Zuckerberg</name>
+        <address>
+        <flat> A/1</flat>
+        <house> 20 </house>
+        <rode>18</rode>
+        <area>Mirpur</area>
+        <city>Dhaka</city>
+        </address>
+        <department>Accounts</department>
+        <salary> $12000 </salary>
+    </personal_information>
+
+    <personal_information id="3">
+        <name>Ala Voski</name>
+        <adress>
+        <house>38 </house>
+        <rode>3</rode>
+        <area>Motijheel</area>
+        <city>Dhaka</city></adress>
+        <department>Human Resourcees</department>
+        <salary>$30000 </salary>
+    </personal_information>
+
+</personal_informations>
+ 
